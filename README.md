@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App]
+![made-with-React](https://img.shields.io/badge/Made%20with-REACT-1f425f.svg)
+![made-with-HTML](https://img.shields.io/badge/Made%20with-HTML-1f425f.svg)
+![made-with-CSS](https://img.shields.io/badge/Made%20with-CSS-1f425f.svg)
+![DONE](https://img.shields.io/badge/PROJECT-DONE-SUCCESS)
 
 ## Progessions
 
@@ -6,4 +9,6 @@ Follow the progression of the APP
 
 ### `19/08/2020`
 
-the App run perfectly. Now try to add more dynamic background and effect for the current weather
+The App run perfectly. 
+
+Now I will try to add more dynamics backgrounds/effects for the current weather
